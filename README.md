@@ -62,7 +62,7 @@ I also asked for help as in "Don't give me something I can copy and paste but ma
 
 I don't know how to compile for other OSes but internet probably has some great tutorials for it.
 
-When I built this C++ code I had couple hundred of lines worth of coding knowledge in C#.
+When I built this C++ code I had couple hundred of lines worth of coding knowledge in C# and the calculator project on C++.
 I built this for fun and because I wanted to code. I didn't publish it then because I didn't think much of it but now I want to 
 1. Share what I've done,
 2. Keep a portfolio for the future and
